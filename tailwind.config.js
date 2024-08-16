@@ -7,7 +7,8 @@ export default {
   theme: {
     extend: {
       colors: {
-        'pale-yellow': "hsl(47, 56%, 90%)"
+        'pale-yellow': "hsl(47, 56%, 90%)",
+        'soft-blue': "hsl(208, 71%, 24%)"
       }
     },
   },

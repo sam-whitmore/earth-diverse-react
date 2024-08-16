@@ -1,6 +1,6 @@
 export default function NavigationBar() {
   return (
-    <div className="w-full h-[72px] p-2 flex justify-between">
+    <div className="w-full h-[10%] p-2 flex justify-between border-b-2 border-soft-blue">
       <div className="h-full">
         <img src="./earth-diverse-logo-500-px.png" alt="Earth Diverse Logo" className="h-full"></img>
       </div>
